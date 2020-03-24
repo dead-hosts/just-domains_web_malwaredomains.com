@@ -57,7 +57,7 @@
     "0571jjw.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "0571zxw.com": {
         "epoch": 1605312000.0,
